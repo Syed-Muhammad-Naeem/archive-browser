@@ -1,0 +1,819 @@
+
+PROCESS[497591] Starting TSM Instrumentation Report: Tue Nov  3 11:35:26 2026
+
+========================>PROCESS[497591] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497591] TSM Client final instrumentation statistics: Tue Nov  3 11:35:26 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 1148394880  Elapsed time =     0.691 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.049	      0.6	       82	        0
+Other                  0.641	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 1073739328
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsP/MOLPATHO/_Sequences_NGS_Patho/NextSeq/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:26
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:27  Last access: 03.11.2026 11:06:00
+
+
+PROCESS[497591] Ended TSM Instrumentation Report: Tue Nov  3 11:35:27 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497623] Starting TSM Instrumentation Report: Tue Nov  3 11:35:27 2026
+
+========================>PROCESS[497623] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497623] TSM Client final instrumentation statistics: Tue Nov  3 11:35:27 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 1909067136  Elapsed time =     0.654 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.068	      0.1	      836	        0
+Other                  0.586	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 1832908352
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsM/_Sequences_NGS_Patho/NextSeq/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:27
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:27  Last access: 03.11.2026 11:35:27
+
+
+PROCESS[497623] Ended TSM Instrumentation Report: Tue Nov  3 11:35:28 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497629] Starting TSM Instrumentation Report: Tue Nov  3 11:35:28 2026
+
+========================>PROCESS[497629] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497629] TSM Client final instrumentation statistics: Tue Nov  3 11:35:28 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 211598720  Elapsed time =     1.073 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.070	      0.1	      896	        0
+Other                  1.002	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 142603840
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsM/_Sequences_NGS_Patho/_NovaSeq/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:28
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:29  Last access: 03.11.2026 11:35:28
+
+
+PROCESS[497629] Ended TSM Instrumentation Report: Tue Nov  3 11:35:29 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497633] Starting TSM Instrumentation Report: Tue Nov  3 11:35:29 2026
+
+========================>PROCESS[497633] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497633] TSM Client final instrumentation statistics: Tue Nov  3 11:35:29 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 4201856384  Elapsed time =     0.372 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.045	      0.5	       96	        0
+Other                  0.328	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 4127192640
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsP/MOLPATHO/_Sequences_NGS_Patho/MiniSeq/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:29
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:29  Last access: 03.11.2026 11:35:29
+
+
+PROCESS[497633] Ended TSM Instrumentation Report: Tue Nov  3 11:35:29 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497637] Starting TSM Instrumentation Report: Tue Nov  3 11:35:29 2026
+
+========================>PROCESS[497637] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497637] TSM Client final instrumentation statistics: Tue Nov  3 11:35:29 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 3643174272  Elapsed time =     0.776 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.062	      0.1	      690	        0
+Other                  0.714	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 3567253056
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsO/MiniSeq/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:29
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:30  Last access: 03.11.2026 11:35:29
+
+
+PROCESS[497637] Ended TSM Instrumentation Report: Tue Nov  3 11:35:30 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497641] Starting TSM Instrumentation Report: Tue Nov  3 11:35:30 2026
+
+========================>PROCESS[497641] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497641] TSM Client final instrumentation statistics: Tue Nov  3 11:35:30 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 805293440  Elapsed time =     0.469 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.051	      0.2	      308	        0
+Other                  0.418	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 736097856
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsP/HAEMATOPATHO/NGS/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:30
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:31  Last access: 03.11.2026 11:35:30
+
+
+PROCESS[497641] Ended TSM Instrumentation Report: Tue Nov  3 11:35:31 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497645] Starting TSM Instrumentation Report: Tue Nov  3 11:35:31 2026
+
+========================>PROCESS[497645] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497645] TSM Client final instrumentation statistics: Tue Nov  3 11:35:31 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 3443715456  Elapsed time =     0.420 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.049	      0.2	      262	        0
+Other                  0.371	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 3368023616
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsO/MiSeq/NGS/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:31
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:31  Last access: 03.11.2026 11:35:31
+
+
+PROCESS[497645] Ended TSM Instrumentation Report: Tue Nov  3 11:35:31 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497649] Starting TSM Instrumentation Report: Tue Nov  3 11:35:32 2026
+
+========================>PROCESS[497649] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497649] TSM Client final instrumentation statistics: Tue Nov  3 11:35:32 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 1003138432  Elapsed time =     0.466 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.046	      0.6	       74	        0
+Other                  0.419	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 926938688
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsP/MOLPATHO/_Sequences_CoreFacility_HTG/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:32
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:32  Last access: 03.11.2026 11:35:31
+
+
+PROCESS[497649] Ended TSM Instrumentation Report: Tue Nov  3 11:35:32 2026
+
+-----------------------------------------------------------------------------------
+
+PROCESS[497653] Starting TSM Instrumentation Report: Tue Nov  3 11:35:32 2026
+
+========================>PROCESS[497653] NEW COMMENCE REPORT<========================
+
+-----------------------------------------------------------------------------------
+PROCESS[497653] TSM Client final instrumentation statistics: Tue Nov  3 11:35:32 2026
+
+Instrumentation class: Client detail
+Completion status: Success
+
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Detailed Instrumentation statistics for
+
+Thread: 3275001216  Elapsed time =     0.304 sec
+
+Section          Actual(sec)	Average(msec)	Frequency used	Bytes Involved
+-----------------------------------------------------------------------------------
+TCP Read               0.045	      0.4	      120	        0
+Other                  0.259	      0.0	        0	        0
+
+-----------------------------------------------------------------------------------
+No instrumented class associated with thread 3200251456
+Current command:
+q archive -server=ispsrv22 -subdir=yes /media/dfsM/_Sequences_CoreFacility_HTG/ 
+
+IBM Spectrum Protect
+Command Line Backup-Archive Client Interface
+  Client Version 8, Release 1, Level 12.0 
+  Client date/time: 03.11.2026 11:35:32
+
+Options settings:
+                BACKUPREGISTRY: YES
+               CHANGINGRETRIES: 4
+           COLLOCATEBYFILESPEC: NO
+                    COMMMETHOD: TCP/IP
+                COMPRESSALWAYS: YES
+                   COMPRESSION: NO
+                DEDUPCACHEPATH: /opt/tivoli/tsm/client/ba/bin
+                DEDUPCACHESIZE: 256
+                 DEDUPLICATION: NO
+                  DISKBUFFSIZE: 256
+              ENABLEDEDUPCACHE: YES
+                 ENABLELANFREE: NO
+                ENCRYPTIONTYPE: AES128
+                FOLLOWSYMBOLIC: CLC
+                  IMAGEGAPSIZE: 32
+             LANFREECOMMMETHOD: SHARED MEMORY
+                MAKESPARSEFILE: YES
+                 MAXCMDRETRIES: 2
+         MEMORYEFFICIENTBACKUP: NO
+                      NODENAME: VHRZ1607
+                PASSWORDACCESS: TRUE
+        PRESERVELASTACCESSDATE: NO
+          PROCESSORUTILIZATION: 0
+                       REPLACE: TRUE
+           RESOURCEUTILIZATION: 2
+                  SKIPMIGRATED: NO
+             SKIPNTPERMISSIONS: NO
+             SKIPNTSECURITYCRC: NO
+             SNAPSHOTCACHESIZE: 100
+                        SUBDIR: TRUE
+                 SUBFILEBACKUP: NO
+              SUBFILECACHESIZE: 10 MB
+                    TAPEPROMPT: NO
+                   TCPBUFFSIZE: 32 KB
+                    TCPNODELAY: YES
+               TCPSENDBUFFSIZE: 0 KB
+                 TCPWINDOWSIZE: 0 KB
+                  TXNBYTELIMIT: 25600K
+                       VERBOSE: VERBOSE
+           VMMAXBACKUPSESSIONS: 4
+                 VMMAXPARALLEL: 4
+     VMMAXRESTOREPARALLELDISKS: 2
+          VMMAXRESTORESESSIONS: 8
+       VMMAXRESTOREPARALLELVMS: 2
+
+-------------------------
+
+Session established with server ISPSRV22: Linux/x86_64
+  Server Version 8, Release 1, Level 24.000
+  Data compression forced off by the server
+  Server date/time: 03.11.2026 11:35:32  Last access: 03.11.2026 11:35:32
+
+
+PROCESS[497653] Ended TSM Instrumentation Report: Tue Nov  3 11:35:32 2026
+
+-----------------------------------------------------------------------------------

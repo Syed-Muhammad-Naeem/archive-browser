@@ -1,0 +1,17 @@
+2026-11-03 11:35:17,020 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://192.168.186.25:8081
+2026-11-03 11:35:17,021 - INFO - [33mPress CTRL+C to quit[0m
+2026-11-03 11:35:22,151 - INFO - Querying archives for path: /media/dfsP/MOLPATHO/_Sequences_NGS_Patho/NextSeq/
+2026-11-03 11:35:27,296 - INFO - Querying archives for path: /media/dfsM/_Sequences_NGS_Patho/NextSeq/
+2026-11-03 11:35:28,122 - INFO - Querying archives for path: /media/dfsM/_Sequences_NGS_Patho/_NovaSeq/
+2026-11-03 11:35:29,335 - INFO - Querying archives for path: /media/dfsP/MOLPATHO/_Sequences_NGS_Patho/MiniSeq/
+2026-11-03 11:35:29,852 - INFO - Querying archives for path: /media/dfsO/MiniSeq/
+2026-11-03 11:35:30,772 - INFO - Querying archives for path: /media/dfsP/HAEMATOPATHO/NGS/
+2026-11-03 11:35:31,377 - INFO - Querying archives for path: /media/dfsO/MiSeq/NGS/
+2026-11-03 11:35:31,934 - INFO - Querying archives for path: /media/dfsP/MOLPATHO/_Sequences_CoreFacility_HTG/
+2026-11-03 11:35:32,545 - INFO - Querying archives for path: /media/dfsM/_Sequences_CoreFacility_HTG/
+2026-11-03 11:35:32,984 - INFO - Total archives fetched: 1483
+2026-11-03 11:35:32,992 - INFO - Archives saved to /var/www/html/public/test/archive_fetch_2026-11-03_11-35-32.txt
+2026-11-03 11:35:33,034 - INFO - 127.0.0.1 - - [03/Nov/2026 11:35:33] "POST / HTTP/1.1" 200 -
